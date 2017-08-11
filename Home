@@ -1,6 +1,0 @@
----
-theme :
-  name : garth
----
-{% include JB/setup %}
-{% include themes/garth/default.html %}
