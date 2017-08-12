@@ -4,7 +4,7 @@ Welcome! I'm Kelly Findley and I'm a doctoral candidate for at Florida State Uni
 
 I'll be entering the job market Fall 2019, and I'm primarily looking for positions that would involve teaching undergraduate statistics courses and mathematics teacher education courses. I would also love to be involved in TA training and professional development.
 
-# Contact Info
+Contact Info
 
 Position: Research Assistant (and occasionally a Teaching Assistant)
 Email: kfindley@fsu.edu
