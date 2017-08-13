@@ -1,4 +1,4 @@
-![Headshot](http://imgur.com/CjMOZWr)
+![Headshot1](http://imgur.com/a/pGNOB)
 
 # Welcome!
 
