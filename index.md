@@ -1,4 +1,3 @@
-<div id="London" class="tabcontent">
 <img src="http://i.imgur.com/CjMOZWr.jpg" width="320" height="320" align="right" />
 
 # Welcome!
@@ -16,11 +15,3 @@ Institution: Florida State University
 [Curriculum Vitae](CV_81317.docx)
 
 [Twitter](https://twitter.com/KelPatFin)
-
-</div>
-
-<div id="Paris" class="tabcontent">
-  # Paris
-  
-  Paris is the capital of France.
-</div>
