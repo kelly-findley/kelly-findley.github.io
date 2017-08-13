@@ -1,4 +1,4 @@
-![Headshot1](http://i.imgur.com/CjMOZWr.jpg =100x20)
+![Headshot1](http://i.imgur.com/CjMOZWr.jpg =25x5)
 
 # Welcome!
 
