@@ -1,3 +1,5 @@
+![Alt text] (C:\Users\Kelly\Pictures\Me shots.jpg)
+
 # Welcome!
 
 Welcome! I'm Kelly Findley and I'm a doctoral candidate for at Florida State University (FSU) studying Mathematics Education. I have a Bachelors in Mathematics from Bryan College and a Masters in Statistics from FSU.
