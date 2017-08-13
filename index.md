@@ -12,6 +12,6 @@ Email: kfindley@fsu.edu
 
 Institution: Florida State University
 
-[CV](CV_81317.docx "Curriculum Vitae")
+[Curriculum Vitae](CV_81317.docx)
 
-[Twitter](https://twitter.com/KelPatFin "Twitter")
+[Twitter](https://twitter.com/KelPatFin)
