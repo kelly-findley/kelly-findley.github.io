@@ -1,4 +1,4 @@
-![ALT test] (/Users/Kelly/Pictures/Me shots.jpg)
+![Image of Me] (file:///C:/Users/Kelly/Pictures/Me shots.jpg)
 
 # Welcome!
 
