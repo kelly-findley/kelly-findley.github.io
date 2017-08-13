@@ -1,4 +1,4 @@
-![Image of Me](https://twitter.com/KelPatFin.png?raw=true)
+![Image of Me](https://twitter.com/KelPatFin.png)
 
 # Welcome!
 
