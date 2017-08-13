@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/CjMOZWr.jpg" width="200" height="200" align="right" />
+<img src="http://i.imgur.com/CjMOZWr.jpg" width="280" height="280" align="right" />
 
 # Welcome!
 
@@ -8,10 +8,8 @@ I'll be entering the job market Fall 2019, and I'm primarily looking for positio
 
 # Contact Info
 
-Position: Research Assistant
-
 Email: kfindley@fsu.edu
 
 Institution: Florida State University
 
-Office: Stone 2204F
+CV: [CV](CV81317.md)
