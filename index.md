@@ -1,4 +1,4 @@
-![Image of Me] (file:///C:/Users/Kelly/Pictures/Me shots.jpg)
+![Image of Me](https://twitter.com/KelPatFin.png?raw=true)
 
 # Welcome!
 
