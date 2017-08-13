@@ -12,4 +12,4 @@ Email: kfindley@fsu.edu
 
 Institution: Florida State University
 
-CV: [CV](CV81317.md)
+Curriculum Vitae: [CV](CV_81317.docx)
