@@ -1,4 +1,4 @@
-![Alt text] (C:\Users\Kelly\Pictures\Me shots.jpg)
+![] (C:\Users\Kelly\Pictures\Me shots.jpg)
 
 # Welcome!
 
