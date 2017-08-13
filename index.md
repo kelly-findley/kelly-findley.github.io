@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/CjMOZWr.jpg" width="400" height="600" align="right" />
+<img src="http://i.imgur.com/CjMOZWr.jpg" width="200" height="200" align="right" />
 
 # Welcome!
 
