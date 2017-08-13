@@ -1,4 +1,4 @@
-![Image of Me](https://plus.google.com/u/0/photos/112520644627408140314/albums/profile/6453598545043061570.png)
+![Headshot](http://imgur.com/a/pGNOB)
 
 # Welcome!
 
