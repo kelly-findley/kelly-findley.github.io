@@ -1,10 +1,3 @@
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <h1 id="project_title">InteractWithStats</h1>
-        </header>
-    </div>
-
 <img src="http://i.imgur.com/CjMOZWr.jpg" width="320" height="320" align="right" />
 
 # Welcome!
@@ -19,4 +12,6 @@ Email: kfindley@fsu.edu
 
 Institution: Florida State University
 
-Curriculum Vitae: [CV](CV_81317.docx)
+[CV](CV_81317.docx "Curriculum Vitae")
+
+[Twitter](https://twitter.com/KelPatFin "Twitter")
