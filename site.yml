@@ -1,7 +1,0 @@
-navbar: 
-    title: "InteractWithStats"
-      left:
-    - text: "Home"
-      href: index.md
-    - text: "About"
-      href: about.md
