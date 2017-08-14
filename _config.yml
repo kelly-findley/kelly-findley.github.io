@@ -5,12 +5,15 @@ permalink:           pretty
 
 # Setup
 title:               InteractWithStats
-description:         'Statistics should be the most exciting class any students takes in college. Let's deliver that!'
+tagline:             ''
+description:         'Statistics should be the most exciting class any students takes in college. Let us deliver that!'
+url:                 ''
+baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              The creator: Mark Otto
+  name:              The creator, Mark Otto
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
