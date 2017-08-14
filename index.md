@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/CjMOZWr.jpg" width="320" height="320" align="right" />
+<img src="http://i.imgur.com/CjMOZWr.jpg" width="200" height="200" align="right" />
 
 # Welcome!
 
@@ -14,4 +14,4 @@ Institution: Florida State University
 
 [Curriculum Vitae](CV_81317.docx)
 
-[Twitter](https://twitter.com/KelPatFin)
+[Twitter Page](https://twitter.com/KelPatFin)
