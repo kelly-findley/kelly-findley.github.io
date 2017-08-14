@@ -1,30 +1,18 @@
 ---
 layout: page
-title: About
+title: Research Interests
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Statistics TA Professional Development
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+As a former statistics TA myself, I was inspired to pursue a research path in statistics education out of my desire to become a better instructor. As I transitioned into the mathematics education department in the college of education, I began to discover a wealth of literature outlining a vision for introductory courses much different than I originally had. New statistics graduate students have varied backgrounds that may not include much experience with the introductory courses they are expected to teach (me included). Furthermore, graduate coursework further emphasizes mathematical underpinnings and theoretical topics. But this perspective differs quite a bit from that of statistics as an investigative process and assignments aimed to prepare students to be critical consumers of data-based arguments they read in media.
 
-There are currently two themes built on Poole:
+My dissertation is devoted to unpacking this perspective discrepancy. I'm studying a cohort of statistics TAs to understand their conceptualization of statistics and beliefs about the discipline. This study follows these TAs from their entrance into the department as grad students, through their department training, recitation duties, and finally their first semester as a solo instructor. I plan to interview the TAs at various critical points across this time period and collect artifacts from their teaching workshop course as well as their own created course materials. This will help me assess the development of their beliefs about statistics and statistics teaching and how their experiences (past and present) serve to shape this emerging and developing set of beliefs. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+# PhET Project
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I currently work as a research assistant for the Physics Education Technology (PhET) Project, housed at the University of Colorado Boulder. The aim of this project is to produce high-quality, research-based, interactive simulations to support students' learning of topics in math and science. These sims are freely available at [phet.colorado.edu](https://phet.colorado.edu/), including helpful tips for incorporating PhET sims and sim-specific activities and lesson plans (when you create a free login). Currently, the PhET team is working to develop 15 new math sims geared toward middle school level content.
 
-## Setup
+My contribution to the project has been research on the different purposes sims are positioned to serve in math classrooms. We found teachers to position sims to either supplement their normal lesson, enhance their lesson by taking advantage of interactive features, or drive their lesson to new places by creating tasks previously unavailable without the sim. We also mapped each teachers' sim positioning tendencies to their pedagogical beliefs in an effort to understand influences on their pedagogical choices. Teachers' positioning choices were closely tied to their vision for sims creating affordances or constraints to their lessons. A limited vision for the capabilities afforded by sims (and high-tech tools in general) inhibited some teachers from creating sim-driven lessons.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I also headed up an effort to create "unit replacement" plans involving two of the PhET sims that relate to probability and statistics. [Here] is a nine-day sequence to teach the 7th grade probability standards using [Plinko Probability](https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_en.html), and [Here] is a three-day lesson sequence to introduce scatterplots in the 8th grade standards using [Least-Squares Regression](https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression_en.html)
