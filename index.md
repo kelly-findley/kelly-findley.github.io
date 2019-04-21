@@ -1,5 +1,3 @@
-<img src="http://i.imgur.com/CjMOZWr.jpg" width="200" height="200" align="right" />
-
 # Kelly Findley, PhD
 
 Hi, and welcome to my page! I'm a recent grad of Florida State University, where I completed a PhD in Math Education and a Masters in Statistics. Beginning in Fall 2019, I'll be working at University of Illinois Urbana-Champaign as a Teaching Assistant Professor in the Statistics Department. My teaching and research interests are primarily in statistics education. 
