@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Webpage'
+title:               Webpage
 tagline:             ''
-description:         'Maybe I'll add pages one day...'
+description:         'Maybe I'll add pages one day'
 url:                 ''
 baseurl:             ''
 paginate:            5
