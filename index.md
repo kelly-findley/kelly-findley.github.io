@@ -9,4 +9,5 @@ Working with graduate teaching assistants and instructors is one of my highest p
 # Contact Info
 
 Email: kfindley@fsu.edu
+
 [ResearchGate](https://www.researchgate.net/profile/Kelly_Findley)
