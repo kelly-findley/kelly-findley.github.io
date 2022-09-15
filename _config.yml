@@ -1,18 +1,4 @@
 ---
 theme: jekyll-theme-minimal
 title: Kelly Findley
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      author_profile: true
-      sidebar:
-        nav: "docs"
-author:
-  name: "Kelly Findley"
-  avatar: "/images/casual-photo.jpg"
-  bio: "I teach Statistics!."
-  location: "University of Illinois at Urbana-Champaign"
 ---
