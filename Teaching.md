@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Teaching Materials"
+title: "Teaching"
 permalink: https://kelly-findley.github.io/Teaching
+---
 
 ## Course Notes
 
