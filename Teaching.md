@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching"
-permalink: https://kelly-findley.github.io/Teaching
+filename: "Teaching.md
 ---
 
 ## Course Notes
