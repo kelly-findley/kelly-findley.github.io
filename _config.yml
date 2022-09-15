@@ -7,7 +7,7 @@ defaults:
     values:
       sidebar:
         nav: "main"
-  --- 
+--- 
   
 theme: jekyll-minimal-theme
 title: Kelly Findley
