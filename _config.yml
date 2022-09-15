@@ -1,12 +1,12 @@
 ---
 theme: jekyll-minimal-theme
 title: Kelly Findley
-  defaults:
-    # _docs
-    - scope:
-        path: ""
-        type: main
-      values:
-        sidebar:
-          nav: "main"
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: main
+    values:
+      sidebar:
+        nav: "main"
   ---
