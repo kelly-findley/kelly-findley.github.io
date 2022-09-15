@@ -1,4 +1,6 @@
 ---
+theme: jekyll-minimal-theme
+title: Kelly Findley
   defaults:
     # _docs
     - scope:
@@ -8,6 +10,3 @@
         sidebar:
           nav: "main"
   ---
-  
-theme: jekyll-minimal-theme
-title: Kelly Findley
