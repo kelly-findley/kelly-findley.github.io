@@ -1,6 +1,6 @@
 ---
-layout: page
 title: "Teaching"
+layout: page
 filename: "Teaching.md
 ---
 
