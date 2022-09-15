@@ -1,3 +1,6 @@
+# main links
 main:
-- title: "Teaching"
-  url: /Teaching.md
+  - title: "Home"
+    url: /index.html
+  - title: "Teaching"
+    url: /Teaching.md
