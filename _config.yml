@@ -1,6 +1,5 @@
 ---
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast"
+theme: jekyll-theme-minimal
 title: Kelly Findley
 defaults:
   # _docs
