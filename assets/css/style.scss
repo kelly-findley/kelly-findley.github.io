@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.sidebar ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer {
+    display: none;
+}
