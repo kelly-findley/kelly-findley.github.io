@@ -35,8 +35,10 @@ filename: "Teaching.md
 - [Lab 8 - Predicting Breast Cancer Relapse](/materials/lab-8.pdf)
 - [Lab 9 - Modeling Melanoma Rates](/materials/lab-9.pdf)
 
-## R Tutorials
+## Software Tutorials
 
- - [Lab Tutorials](https://stat212-learnr.stat.illinois.edu/)
+ - [Introduction to Excel Videos](https://www.youtube.com/watch?v=iQWC3Q4D5VM&list=PLTE0IJCCTM9LdpwKNRLjoio__qLIrYZDC)
+ - [Introduction to R Videos](https://www.youtube.com/watch?v=7tDK_i11jqw&list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-)
+ - [R Tutorials](https://stat212-learnr.stat.illinois.edu/)
 
 
