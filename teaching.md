@@ -19,6 +19,7 @@ filename: "Teaching.md
  - [Chapter 9 - Confidence Intervals](/materials/chapter-9.pdf)
  - [Chapter 10 - Evaluating Internal Validity](/materials/chapter-10.pdf)
  - [Chapter 11 - Comparing Two Means](/materials/chapter-11.pdf)
+ - [Chapter 12 - Risk Inference](/materials/chapter-12.pdf)
  - [Chapter 13 - Linear Regression Inference](/materials/chapter-13.pdf)
  - [Chapter 14 - Multiple Linear Regression](/materials/chapter-14.pdf)
 
