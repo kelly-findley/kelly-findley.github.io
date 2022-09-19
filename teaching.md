@@ -39,6 +39,6 @@ filename: "Teaching.md
 
  - [Introduction to Excel Videos](https://www.youtube.com/watch?v=iQWC3Q4D5VM&list=PLTE0IJCCTM9LdpwKNRLjoio__qLIrYZDC){:target="_blank"}
  - [Introduction to R Videos](https://www.youtube.com/watch?v=7tDK_i11jqw&list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-){:target="_blank"}
- - [R Tutorials](https://stat212-learnr.stat.illinois.edu/)
+ - [R Tutorials](https://stat212-learnr.stat.illinois.edu/){:target="_blank"}
 
 
