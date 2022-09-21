@@ -31,9 +31,9 @@ filename: "Teaching.md
 - [Lab 4 - What's the Explanation](/materials/lab-4.pdf)
 - [Lab 5 - Class Data Visualization](/materials/lab-5.pdf)
 - [Lab 6 - The Islands Study](/materials/lab-6.pdf)
-- [Lab 7 - Comparing Risk](/materials/lab-7.pdf)
-- [Lab 8 - Predicting Breast Cancer Relapse](/materials/lab-8.pdf)
-- [Lab 9 - Modeling Melanoma Rates](/materials/lab-9.pdf)
+- [Lab 7 - Comparing Risk](/materials/lab-7.pdf) and [Lab 7 Data](/materials/heart.csv)
+- [Lab 8 - Predicting Breast Cancer Relapse](/materials/lab-8.pdf) and [Lab 8 Article](/materials/lab-8-article.pdf)
+- [Lab 9 - Modeling Melanoma Rates](/materials/lab-9.pdf) and [Lab 9 Data](/materials/Melanoma.csv)
 
 ## Software Tutorials
 
