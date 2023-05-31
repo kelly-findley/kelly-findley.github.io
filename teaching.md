@@ -8,20 +8,19 @@ filename: "Teaching.md
 
 ## Course Notes
 
- - [Chapter 1 - Exploring Data](/materials/chapter-1.pdf)
- - [Chapter 2 - Comparing Groups](/materials/chapter-2.pdf)
- - [Chapter 3 - Modeling Relationships](/materials/chapter-3.pdf)
- - [Chapter 4 - Elementary Probability](/materials/chapter-4.pdf)
- - [Chapter 5 - Probability Distributions](/materials/chapter-5.pdf)
- - [Chapter 6 - Distribution of a Sample Statistic](/materials/chapter-6.pdf)
- - [Chapter 7 - Hypothesis Testing](/materials/chapter-7.pdf)
- - [Chapter 8 - Evaluating External Validity](/materials/chapter-8.pdf)
- - [Chapter 9 - Confidence Intervals](/materials/chapter-9.pdf)
- - [Chapter 10 - Evaluating Internal Validity](/materials/chapter-10.pdf)
- - [Chapter 11 - Comparing Two Means](/materials/chapter-11.pdf)
- - [Chapter 12 - Risk Inference](/materials/chapter-12.pdf)
- - [Chapter 13 - Linear Regression Inference](/materials/chapter-13.pdf)
- - [Chapter 14 - Multiple Linear Regression](/materials/chapter-14.pdf)
+ - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
+ - [Chapter 2 - Testing a Proportion](/materials/Ch2.pdf)
+ - [Chapter 3 - Testing a Mean](/materials/Ch3.pdf)
+ - [Chapter 4 - z-tests and t-tests](/materials/Ch4.pdf)
+ - [Chapter 5 - Confidence Intervals](/materials/Ch5.pdf)
+ - [Chapter 6 - Measuring Test Effectiveness](/materials/Ch6.pdf)
+ - [Chapter 7 - Comparing Two Means](/materials/Ch7.pdf)
+ - [Chapter 8 - Comparing Proportions and Risk](/materials/Ch8.pdf)
+ - [Chapter 9 - Evaluating External Validity](/materials/Ch9.pdf)
+ - [Chapter 10 - Evaluating Internal Validity](/materials/Ch10.pdf)
+ - [Chapter 11 - Simple Linear Modeling](/materials/Ch11.pdf)
+ - [Chapter 12 - Multiple Linear Modeling](/materials/Ch12.pdf)
+ - [Closing Notes](/materials/Closing.pdf)
 
 ## Lab Assignments
 
