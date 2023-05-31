@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.sidebar ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.sidebar svg {
+    fill: #727272;
+    height: 14px;
+    width: auto;
+}
+
+footer,
+.sidebar-footer {
+    display: none;
+}
