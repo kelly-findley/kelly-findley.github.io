@@ -36,6 +36,8 @@ filename: "Teaching.md
 
 ## Experimental Image
 
+![image](/assets/images/RPlot.png)
+
 <img src= '/assets/images/RPlot.png' alt='Diamond Prices by Cut'>
 
 ## Software Videos and Tutorials
