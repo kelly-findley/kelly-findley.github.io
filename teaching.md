@@ -38,7 +38,7 @@ filename: "Teaching.md
 
 <img src= '/assets/images/RPlot.png' alt='Diamond Prices by Cut' />
 
-<img src= "/assets/images/RPlot.png' alt='Diamond Prices by Cut" />
+<img src= "/assets/images/RPlot.png" alt="Diamond Prices by Cut" />
 
 
 ## Software Videos and Tutorials
