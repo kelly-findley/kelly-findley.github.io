@@ -6,6 +6,8 @@ filename: "Teaching.md
 
 # Teaching Materials for Introduction to Biostatistics
 
+Below I include copies of my class notes (with filled in blank and instructor notes), followed by the lab assignments I used in a previous semester.
+
 ## Course Notes
 
  - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
