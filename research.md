@@ -2,9 +2,9 @@
 
 ## What is Statistics all about?
 
-This has been a curiosity of mine that has continued to be a critical focus of my research! Having first experienced statistics by reading sports standings in the newspaper, I always thought of statistics as facts and figures. But as I've continued studying statistics, ...
+Having first experienced statistics by reading sports standings in the newspaper, I always thought of statistics as facts and figures. Those early concept images, in combination with my early academic experiences in mathematics, created a rather rigid and rule-based perspective of what it means to do statistics. But as I had more experiences actually working with data and learning from others, I've since realized that statistical work is a space that thrives on creativity and diverse perspectives. And truthfully, my perspectives about the nature of statistics and my own pathways to contribute in the statistics world are still evolving!
 
-We've all encountered statistics, and those encounters color our perspectives!
+But understanding perspectives of statistics is not merely an academic curiosity. How students think about a field can have big implications on their learning and sense of belonging. And in the United States, the field of statistics has struggled to attract learners of all backgrounds. 
 
 [Image that Nicola created?]
 
