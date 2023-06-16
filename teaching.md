@@ -18,10 +18,11 @@ Below I include copies of my class notes (with blanks filled in and instructor n
  - [Chapter 6 - Measuring Test Effectiveness](/materials/Ch6.pdf)
  - [Chapter 7 - Comparing Two Means](/materials/Ch7.pdf)
  - [Chapter 8 - Comparing Proportions and Risk](/materials/Ch8.pdf)
- - [Chapter 9 - Evaluating External Validity](/materials/Ch9.pdf)
- - [Chapter 10 - Evaluating Internal Validity](/materials/Ch10.pdf)
- - [Chapter 11 - Simple Linear Modeling](/materials/Ch11.pdf)
- - [Chapter 12 - Multiple Linear Modeling](/materials/Ch12.pdf)
+ - [Chapter 9 - Evaluating Causality with Observational Studies](/materials/Ch9.pdf)
+ - [Chapter 10 - Evaluating Causality with Experiments](/materials/Ch10.pdf)
+ - [Chapter 11 - Evaluating Generalizability](/materials/Ch11.pdf)
+ - [Chapter 12 - Simple Linear Modeling](/materials/Ch12.pdf)
+ - [Chapter 13 - Multiple Linear Modeling](/materials/Ch13.pdf)
  - [Closing Notes](/materials/Closing.pdf)
 
 ## Lab Assignments
