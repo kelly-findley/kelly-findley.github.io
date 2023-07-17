@@ -19,9 +19,10 @@ filename: "Teaching.md
  - [Chapter 9 - Evaluating Causality with Observational Studies](/materials/Ch9.pdf)
  - [Chapter 10 - Evaluating Causality with Experiments](/materials/Ch10.pdf)
  - [Chapter 11 - Evaluating Generalizability](/materials/Ch11.pdf)
- - [Chapter 12 - Simple Linear Modeling](/materials/Ch12.pdf)
- - [Chapter 13 - Multiple Linear Modeling](/materials/Ch13.pdf)
- - [Closing Notes](/materials/Closing.pdf)
+ - [Chapter 12 - Reading Biostatistical Research - Experiments](/materials/Ch12.pdf)
+ - [Chapter 13 - Simple Linear Modeling](/materials/Ch13.pdf)
+ - [Chapter 14 - Multiple Linear Modeling](/materials/Ch14.pdf)
+ - [Chapter 15 - Reading Biostatistical Research - Observational Studies](/materials/Ch15.pdf)
 
 ## Lab Assignments
 
