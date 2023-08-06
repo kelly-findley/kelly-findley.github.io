@@ -8,6 +8,7 @@ filename: "Teaching.md
 
 ## Course Notes
 
+ - [Syllabus](/materials/syllabus-f23)
  - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
  - [Chapter 2 - Testing a Proportion](/materials/Ch2.pdf)
  - [Chapter 3 - Testing a Mean](/materials/Ch3.pdf)
