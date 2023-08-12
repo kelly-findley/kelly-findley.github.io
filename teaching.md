@@ -27,9 +27,9 @@ filename: "Teaching.md
 
 ## Lab Assignments
 
-- [Lab 1 - Exploring Data in Excel](/materials/lab-1.pdf)
+- [Lab 1 - Simulation Lab](/materials/lab-1.pdf)
 - [Lab 2 - Mammal Sleep Behavior](/materials/lab-2.pdf)
-- [Lab 3 - Simulation Lab](/materials/lab-3.pdf)
+- [Lab 3 - Exploring Data in Excel](/materials/lab-3.pdf)
 - [Lab 4 - What's the Explanation](/materials/lab-4.pdf)
 - [Lab 5 - Class Data Visualization](/materials/lab-5.pdf)
 - [Lab 6 - The Islands Study](/materials/lab-6.pdf)
