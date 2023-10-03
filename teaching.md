@@ -30,11 +30,11 @@ filename: "Teaching.md
 - [Lab 1 - Simulation Lab](/materials/lab-1.pdf)
 - [Lab 2 - Mammal Sleep Behavior](/materials/lab-2.pdf)
 - [Lab 3 - Exploring Data in Excel](/materials/lab-3.pdf)
-- [Lab 4 - What's the Explanation](/materials/lab-4.pdf)
-- [Lab 5 - Class Data Visualization](/materials/lab-5.pdf)
+- [Lab 4 - Class Data Visualization](/materials/lab-4.pdf)
+- [Lab 5 - Comparing Risk](/materials/lab-5.pdf) and [Lab 5 Data](/materials/heart.csv)
 - [Lab 6 - The Islands Study](/materials/lab-6.pdf)
-- [Lab 7 - Comparing Risk](/materials/lab-7.pdf) and [Lab 7 Data](/materials/heart.csv)
-- [Lab 8 - Predicting Breast Cancer Relapse](/materials/lab-8.pdf) and [Lab 8 Article](/materials/lab-8-article.pdf)
+- [Lab 7 - Article Exploration - Hemmorrhage Risk](/materials/lab-7.pdf) and [Lab 7 Article](/materials/lab-7-article.pdf)
+- [Lab 8 - Article Exploration - Predicting Breast Cancer Relapse](/materials/lab-8.pdf) and [Lab 8 Article](/materials/lab-8-article.pdf)
 - [Lab 9 - Modeling Melanoma Rates](/materials/lab-9.pdf) and [Lab 9 Data](/materials/Melanoma.csv)
 
 ## Software Videos and Tutorials
