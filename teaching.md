@@ -34,7 +34,7 @@ filename: "Teaching.md
 - [Lab 5 - Comparing Risk](/materials/lab-5.pdf) and [Lab 5 Data](/materials/heart.csv)
 - [Lab 6 - The Islands Study](/materials/lab-6.pdf)
 - [Lab 7 - Article Exploration - Hemmorrhage Risk](/materials/lab-7.pdf) and [Lab 7 Article](/materials/lab-7-article.pdf)
-- [Lab 8 - Article Exploration - Predicting Breast Cancer Relapse](/materials/lab-8.pdf) and [Lab 8 Article](/materials/lab-8-article.pdf)
+- [Lab 8 - Flint Water](/materials/lab-8.pdf) and [Lab 8 Data](/materials/Flint.xlsx)
 - [Lab 9 - Modeling Melanoma Rates](/materials/lab-9.pdf) and [Lab 9 Data](/materials/Melanoma.csv)
 
 ## Software Videos and Tutorials
