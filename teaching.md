@@ -43,7 +43,7 @@ filename: "Teaching.md
  - [Introduction to R Videos](https://www.youtube.com/watch?v=eElwzIb20tw&list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-&index=1){:target='_blank'}
  - [R Tutorials](https://stat212-learnr.stat.illinois.edu/){:target='_blank'}
 
- ## Class Videos
+## Class Videos
 
  - [Fall 2023](https://mediaspace.illinois.edu/channel/STAT%2B212%2BChannel%2B%2528Fall%2B2023%2529/309223952){:target='_blank'}
 
