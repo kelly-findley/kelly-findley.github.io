@@ -45,5 +45,5 @@ filename: "Teaching.md
 
  ## Class Videos
 
- - [Fall 2023](https://mediaspace.illinois.edu/channel/STAT%2B212%2BChannel%2B%2528Fall%2B2023%2529/309223952)
+ - [Fall 2023](https://mediaspace.illinois.edu/channel/STAT%2B212%2BChannel%2B%2528Fall%2B2023%2529/309223952){:target='_blank'}
 
