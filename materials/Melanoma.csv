@@ -1,4 +1,4 @@
-Name,Abb,Mel,Sun,Lat,Lon,Ocean,Temp,Pop,Density,Age,White,Income
+Name,abb,mel,sun,lat,lon,ocean,temp,pop,density,age,white,income
 alabama,AL,24.4,4660,32.32,-86.902298,Ocean,62.8,"4,903,185",95.8,39.2,0.655,46257
 arizona,AZ,25.3,5755,34.05,-111.093735,Land,60.3,"7,278,717",60.1,37.9,0.547,53558
 arkansas,AR,22.2,4724,34.8,-92.199997,Land,60.4,"3,017,825",57.2,38.3,0.723,44334
