@@ -8,7 +8,7 @@ filename: "Teaching.md
 
 ## Course Notes
 
- - [Syllabus](/materials/syllabus-s24.pdf)
+ - [Syllabus](/materials/syllabus-f24.pdf)
  - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
  - [Chapter 2 - Testing a Proportion](/materials/Ch2.pdf)
  - [Chapter 3 - Testing a Mean](/materials/Ch3.pdf)
@@ -20,10 +20,10 @@ filename: "Teaching.md
  - [Chapter 9 - Evaluating Causality with Observational Studies](/materials/Ch9.pdf)
  - [Chapter 10 - Evaluating Causality with Experiments](/materials/Ch10.pdf)
  - [Chapter 11 - Evaluating Generalizability](/materials/Ch11.pdf)
- - [Chapter 12 - Reading Biostatistical Research - Experiments](/materials/Ch12.pdf)
+ - [Chapter 12 - Reading Biomedical Research - Experiments](/materials/Ch12.pdf)
  - [Chapter 13 - Simple Linear Modeling](/materials/Ch13.pdf)
  - [Chapter 14 - Multiple Linear Modeling](/materials/Ch14.pdf)
- - [Chapter 15 - Reading Biostatistical Research - Observational Studies](/materials/Ch15.pdf)
+ - [Chapter 15 - Reading Biomedical Research - Observational Studies](/materials/Ch15.pdf)
 
 ## Lab Assignments
 
@@ -43,7 +43,5 @@ filename: "Teaching.md
  - [Introduction to R Videos](https://www.youtube.com/watch?v=eElwzIb20tw&list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-&index=1){:target='_blank'}
  - [R Tutorials](https://stat212-learnr.stat.illinois.edu/){:target='_blank'}
 
-## Class Videos
 
- - [Fall 2023](https://mediaspace.illinois.edu/channel/STAT%2B212%2BChannel%2B%2528Fall%2B2023%2529/309223952){:target='_blank'}
 
