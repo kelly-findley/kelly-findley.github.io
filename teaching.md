@@ -15,7 +15,7 @@ filename: "Teaching.md
  - [Chapter 3 - Testing a Mean](/materials/Ch3.pdf)
  - [Chapter 4 - z-tests and t-tests](/materials/Ch4.pdf)
  - [Chapter 5 - Confidence Intervals](/materials/Ch5.pdf)
- - [Chapter 6 - Measuring Test Effectiveness](/materials/Ch6.pdf)
+ - [Chapter 6 - Measuring Test Accuracy](/materials/Ch6.pdf)
  - [Chapter 7 - Comparing Two Means](/materials/Ch7.pdf)
  - [Chapter 8 - Comparing Proportions and Risk](/materials/Ch8.pdf)
  - [Chapter 9 - Evaluating Causality with Observational Studies](/materials/Ch9.pdf)
@@ -28,7 +28,7 @@ filename: "Teaching.md
 
 ## Lab Assignments
 
-- [Lab 1 - Sampling and Simulation with Diamond Prices](/materials/lab-1.pdf)
+- [Lab 1 - Sampling and Simulation with Diamonds](/materials/lab-1.pdf)
 - [Lab 2 - Mammal Sleep Behavior](/materials/lab-2.pdf)
 - [Lab 3 - Exploring Data in Excel](/materials/lab-3.pdf)
 - [Lab 4 - Class Data Visualization](/materials/lab-4.pdf)
