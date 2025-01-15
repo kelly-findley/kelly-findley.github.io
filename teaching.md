@@ -8,7 +8,7 @@ filename: "Teaching.md
 
 ## Course Notes
 
- - [Syllabus](/materials/syllabus-f24.pdf)
+ - [Syllabus](/materials/syllabus-s25.pdf)
  - [Chapter 0 - How to Learn Well](/materials/Ch0.pdf)
  - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
  - [Chapter 2 - Testing a Proportion](/materials/Ch2.pdf)
@@ -28,8 +28,8 @@ filename: "Teaching.md
 
 ## Lab Assignments
 
-- [Lab 1 - Sampling and Simulation with Diamonds](/materials/lab-1.pdf)
-- [Lab 2 - Mammal Sleep Behavior](/materials/lab-2.pdf)
+- [Lab 1 - Mammal Sleep Behavior](/materials/lab-1.pdf)
+- [Lab 2 - Sampling and Simulation with Diamonds](/materials/lab-2.pdf)
 - [Lab 3 - Exploring Data in Excel](/materials/lab-3.pdf)
 - [Lab 4 - Class Data Visualization](/materials/lab-4.pdf)
 - [Lab 5 - Comparing Risk](/materials/lab-5.pdf) and [Lab 5 Data](/materials/heart.csv)
@@ -41,7 +41,7 @@ filename: "Teaching.md
 ## Software Videos and Tutorials
 
  - [Introduction to Excel Videos](https://www.youtube.com/watch?v=iQWC3Q4D5VM&list=PLTE0IJCCTM9LdpwKNRLjoio__qLIrYZDC){:target='_blank'}
- - [Introduction to R Videos](https://www.youtube.com/watch?v=eElwzIb20tw&list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-&index=1){:target='_blank'}
+ - [Introduction to R Videos](https://www.youtube.com/playlist?list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-){:target='_blank'}
  - [R Tutorials](https://stat212-learnr.stat.illinois.edu/){:target='_blank'}
 
 
