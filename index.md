@@ -4,7 +4,7 @@
 
 I'm a [Teaching Associate Professor](https://stat.illinois.edu/directory/profile/kfindley){:target="_blank"} of Statistics at the University of Illinois Urbana-Champaign. I specialize in creating curricular materials that are 1) scaleable to large classes, 2) conceptually-driven toward core statistical ideas, and 3) embedded in authentic examples to promote statistical inquiry and meaningful application.
 
-Much of my time at Illinois has been invested in redesigning our Introduction to Biostatistics course--an accelerated introductory course with applications relevant for students pursuing careers in the medical field. My course notes and lab assignments are shared under my Teaching Materials page and may be used and adapted freely!
+Much of my time at Illinois has been invested in redesigning our Introduction to Biostatistics course--an accelerated introductory course with applications relevant for students pursuing careers in the medical field. My course notes and lab assignments are shared under my Teaching Materials page and may be used and adapted freely! 
 
 ## Research
 
