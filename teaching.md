@@ -4,9 +4,9 @@ layout: page
 filename: "Teaching.md
 ---
 
-Below are pdfs for the class notes I have developed and some of the lab assignments I have used in recent semesters. Feel free to reach out to me for editable and/or filled-out versions of the course notes or for samples of the assessment questions that I have used for the course!
-
 # Teaching Materials for Introduction to Biostatistics
+
+Feel free to reach out to me for editable and/or filled-out versions of the course notes or for samples of the assessment questions that I have used for the course!
 
 ## Course Notes
 
