@@ -6,7 +6,7 @@ filename: "Teaching.md
 
 # Teaching Materials for Introduction to Biostatistics
 
-Feel free to reach out to me for editable and/or filled-out versions of the course notes or for samples of the assessment questions that I have used for the course!
+Feel free to reach out to me for editable and/or filled-out versions of the course notes. I can also share sample questions that I have used for homework and exams.
 
 ## Course Notes
 
