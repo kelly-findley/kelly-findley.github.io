@@ -10,7 +10,7 @@ Feel free to reach out to me for editable and/or filled-out versions of the cour
 
 ## Course Notes
 
- - [Syllabus](/materials/syllabus-s25.pdf)
+ - [Syllabus](/materials/syllabus-f25.pdf)
  - [Chapter 0 - How to Learn Well](/materials/Ch0.pdf)
  - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
  - [Chapter 2 - Testing a Proportion](/materials/Ch2.pdf)
