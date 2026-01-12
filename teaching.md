@@ -10,7 +10,7 @@ Feel free to reach out to me for editable and/or filled-out versions of the cour
 
 ## Course Notes
 
- - [Syllabus](/materials/syllabus-f25.pdf)
+ - [Syllabus](/materials/syllabus-s26.pdf)
  - [Chapter 0 - How to Learn Well](/materials/Ch0.pdf)
  - [Chapter 1 - Statistical Investigations](/materials/Ch1.pdf)
  - [Chapter 2 - Testing a Proportion](/materials/Ch2.pdf)
@@ -45,6 +45,7 @@ Feel free to reach out to me for editable and/or filled-out versions of the cour
  - [Introduction to Excel Videos](https://www.youtube.com/watch?v=iQWC3Q4D5VM&list=PLTE0IJCCTM9LdpwKNRLjoio__qLIrYZDC){:target='_blank'}
  - [Introduction to R Videos](https://www.youtube.com/playlist?list=PLTE0IJCCTM9ILfW8OaLqZd37G7X4WDtl-){:target='_blank'}
  - [R Tutorials](https://stat212-learnr.stat.illinois.edu/){:target='_blank'}
+
 
 
 
